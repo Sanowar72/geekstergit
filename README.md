@@ -11,7 +11,7 @@
 ###### Heading 6
 
 <!-- italic -->
-*This is italic * inside * will be italic
+*This is italic * inside  will be italic
 
 <!-- strong -->
 **This text will be strong** inside double star
@@ -53,7 +53,7 @@ ____
 `<footer></footer>`
 `<address></address>`
 `<p></p>`
-`<h1></h1>`
+`<h1>hii</h1>`
 `<h2></h2>`
 `<h3></h3>`
 `<h4></h4>`
